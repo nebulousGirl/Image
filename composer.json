@@ -18,6 +18,8 @@
     },
     "require-dev": {
         "sllh/php-cs-fixer-styleci-bridge": "~1.0",
+        "symfony/phpunit-bridge": "^2.7.4",
+        "symfony/filesystem": "^2.7.4"
         "symfony/phpunit-bridge": "^2.7.4 || ^3.0"
     },
     "suggest": {
